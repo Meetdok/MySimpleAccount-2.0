@@ -1,0 +1,20 @@
+﻿<Page x:Class="MySimpleAccount_2._0.EditMusicPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MySimpleAccount_2._0"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="EditMusicPage">
+    <StackPanel>
+        <Label Content="Название трека" Background="#FF45FC7C"/>
+        <TextBox Text="{Binding Music.Title}"/>
+        <Label Content="Жанр" Background="#FF45FC7C"/>
+        <TextBox Text="{Binding Music.Genre}"/>
+        <Label Content="Группа" Background="#FF45FC7C"/>
+        <TextBox Text="{Binding Music.Group}"/>
+        <Button Content="Сохранить" Command="{Binding AddAccount}" HorizontalAlignment="Center" Padding="5" Margin="3" Background="#FFFDFDFD"/>
+        <Button Content="Список музыки" Command="{Binding MusicListAccount}" Margin="345,0" Background="White"/>
+    </StackPanel>
+</Page>

@@ -1,0 +1,27 @@
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\bin\Debug\MySimpleAccount 2.0.exe.config
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\bin\Debug\MySimpleAccount 2.0.exe
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\bin\Debug\MySimpleAccount 2.0.pdb
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\MySimpleAccount 2.0.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\EditAccountPage.g.cs
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\ListAccountPage.g.cs
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\App.g.cs
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\MySimpleAccount 2.0_MarkupCompile.cache
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\MySimpleAccount 2.0_MarkupCompile.lref
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\EditAccountPage.baml
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\ListAccountPage.baml
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\MainWindow.baml
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\MySimpleAccount 2.0.g.resources
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\MySimpleAccount_2._0.Properties.Resources.resources
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\MySimpleAccount 2.0.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\MySimpleAccount 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\MySimpleAccount 2.0.exe
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\MySimpleAccount 2.0.pdb
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\EditGamePage.g.cs
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\GameListPage.g.cs
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\EditGamePage.baml
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\GameListPage.baml
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\EditMusicPage.g.cs
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\ListMusicPage.g.cs
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\EditMusicPage.baml
+C:\Users\Artem\source\repos\MySimpleAccount 2.0\MySimpleAccount 2.0\obj\Debug\ListMusicPage.baml

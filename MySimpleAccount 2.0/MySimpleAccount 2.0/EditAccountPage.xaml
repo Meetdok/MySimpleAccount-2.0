@@ -1,0 +1,22 @@
+﻿<Page x:Class="MySimpleAccount_2._0.EditAccountPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MySimpleAccount_2._0"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="EditAccountPage">
+    <StackPanel>
+        <Label Content="Фамилия" Background="#FF45CBFC"/>
+        <TextBox Text="{Binding Account.LastName}"/>
+        <Label Content="Имя" Background="#FF4ACDFD"/>
+        <TextBox Text="{Binding Account.FirstName}"/>
+        <Label Content="Ник" Background="#FF4DCCFA"/>
+        <TextBox Text="{Binding Account.NickName}"/>
+        <Button Content="Сохранить" Command="{Binding AddAccount}" HorizontalAlignment="Center" Padding="5" Margin="3" Background="#FFFDFDFD"/>
+        <Button Content="Список аккаунтов" Command="{Binding ListAccount}" HorizontalAlignment="Center" Padding="5" Margin="3" Background="White"/>
+        <Button Content="Список игр" Command="{Binding GameListAccount}" Margin="345,0" Background="White"/>
+        <Button Content="Список музыки" Command="{Binding ListMusicAccount}" Margin="345,0" Background="White"/>
+    </StackPanel>
+</Page>

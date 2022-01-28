@@ -1,0 +1,25 @@
+﻿<Window x:Class="MySimpleAccount_2._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MySimpleAccount_2._0"
+        mc:Ignorable="d"
+        Title="Главное окно редактор" Height="450" Width="800" Background="#FF26FAFD">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Menu Background="#FFABFF3E">
+            <MenuItem Header="Редактор" Click="openEditor" Background="#FFF7F7F7"/>
+            <MenuItem Header="Редактор игр" Click="openGameEditor" Background="#FFFAFAF9"/>
+            <MenuItem Header="Редактор музыки" Click="openMusicEditor" Background="#FFF7F7F7"/>
+            <MenuItem Header="Список" Click="openList" Background="#FFFAFAF9"/>
+            <MenuItem Header="Список игр" Click="openGameList" Background="#FFFAFAF9"/>
+            <MenuItem Header="Список Музыки" Click="openMusicList" Background="#FFFAFAF9"/>
+        </Menu>
+        <Frame Grid.Row="1" Content="{Binding CurrentPage}"
+               NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>
